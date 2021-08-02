@@ -1,0 +1,85 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.DTube-body {
+  width: auto;
+  height: 70px;
+  border-bottom: 1px solid #22242626;
+}
+.DTube-body i {
+  font-size: 25px;
+  margin-left: 35px;
+  margin-top: 20px;
+  color: rgb(134, 134, 134);
+  cursor: pointer;
+}
+.DTube-body .logo1 img {
+  width: 100px;
+  position: absolute;
+  left: 80px;
+  top: 16px;
+  cursor: pointer;
+}
+.DTube-body .DTube-form input {
+  width: 420px;
+  height: 32px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid #22242626;
+  color: #000;
+  padding-left: 15px;
+  font-size: 15px;
+  position: absolute;
+  left: 210px;
+  top: 20px;
+}
+.DTube-body .DTube-form i {
+  font-size: 20px;
+  position: relative;
+  left: 580px;
+  top: -21px;
+  cursor: pointer;
+}
+.DTube-body .DTube-form i:hover {
+  color: #000;
+}
+.DTube-body .DTube-form button {
+  text-transform: uppercase;
+  background: #f01a30;
+  border: none;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: relative;
+  left: 1145px;
+  top: -24px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 15px;
+}
+.DTube-body .DTube-form button:hover {
+  background: #f01a30;
+}
+.DTube-body .DTube-form .finish i {
+  color: #f01a30;
+  border: 1px solid rgb(228, 228, 228);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 9px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #fff;
+  box-shadow: 6px 1px 6px -3px rgb(138 138 138);
+  position: relative;
+  left: 1266px;
+  top: -82px;
+  cursor: pointer;
+}

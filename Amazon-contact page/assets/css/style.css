@@ -1,0 +1,111 @@
+* {
+  margin: 0px;
+}
+
+input:focus {
+  outline: none;
+}
+
+svg {
+  width: 25px;
+}
+
+.amazon .logo img {
+  width: 150px;
+  margin-left: 600px;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-bottom: -85px;
+}
+
+.amazon .form {
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+  position: absolute;
+  top: -70px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  height: 300px;
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  border: 1px solid rgb(201, 194, 194);
+  border-radius: 5px;
+  display: block;
+}
+
+.amazon .form h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.amazon .form input,
+.amazon .form button {
+  padding: 10px;
+  background-color: #fff;
+  display: block;
+  width: 276px;
+  border: 1px solid #333;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.amazon .form button {
+  width: 276px;
+  background: #ecd392;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  cursor: pointer;
+}
+
+.amazon .form button:hover {
+  background-color: #f0c14b;
+}
+.amazon .form button:focus {
+  background-color: rgb(235, 204, 28);
+}
+
+.amazon .form button:active {
+  box-shadow: 0px 0px 10px 0px rgb(255, 137, 3);
+}
+
+.amazon .form p {
+  font-size: 14px;
+  margin-top: 20px;
+}
+.amazon .form a {
+  color: rgb(12, 136, 238);
+}
+
+.amazon .form a:hover {
+  color: #bb973c;
+}
+
+.amazon .form input:focus {
+  box-shadow: 0px 0px 10px 0px rgb(255, 137, 3);
+}
+
+.amazon .form h3 {
+  margin-bottom: 5px;
+  font-family: candara;
+}
+.amazon .form .finish p a {
+  position: absolute;
+  top: 280px;
+  right: 0px;
+  left: 55px;
+  bottom: 0px;
+}
+
+.amazon .form .finish i {
+  position: absolute;
+  top: 280px;
+  left: 35px;
+  right: 0px;
+  bottom: 0px;
+}

@@ -1,0 +1,168 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.futter {
+  background-color: rgb(24, 24, 24);
+  width: 100%;
+  height: 140px;
+}
+.upwork img {
+  width: 100px;
+  margin-top: 25px;
+  margin-left: 196px;
+  padding-bottom: 30px;
+  cursor: pointer;
+}
+.upwork .upwork-form {
+  width: 510px;
+  height: 590px;
+  background-color: white;
+  margin-top: 60px;
+  margin-bottom: 27px;
+  border: 1px solid rgb(207, 205, 201);
+  border-radius: 10px;
+  margin-left: 425px;
+  margin-right: 425px;
+}
+.upwork .upwork-form h1 {
+  margin-top: 40px;
+  margin-left: 160px;
+  margin-bottom: 40px;
+}
+.upwork .upwork-form input {
+  width: 345px;
+  height: 40px;
+  margin-left: 75px;
+  padding-left: 40px;
+  padding-right: 0px;
+  border-radius: 6px;
+  border: 1px solid rgb(207, 205, 201);
+  margin-bottom: 18px;
+}
+.upwork .upwork-form input:hover {
+  border-color: #14a800;
+}
+.upwork .upwork-form input:focus {
+  border-color: #3c8224;
+}
+
+.upwork .upwork-form i {
+  position: absolute;
+  left: 515px;
+  top: 280px;
+  color: rgb(158, 158, 157);
+  cursor: text;
+}
+.upwork .upwork-form button {
+  width: 385px;
+  height: 40px;
+  margin-left: 75px;
+  color: #fff;
+  border-radius: 20px;
+  background-color: #14a800;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+.upwork .upwork-form button:hover {
+  background-color: #3c8224;
+}
+
+.upwork .upwork-form p {
+  position: absolute;
+  left: 660px;
+  top: 388px;
+  font-size: 20px;
+}
+.upwork .upwork-form .form2 img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  position: absolute;
+  left: 305px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 35px;
+  margin-left: 202px;
+  cursor: pointer;
+}
+.upwork .upwork-form .form2 button {
+  margin-top: 30px;
+  background-color: #4285f4;
+}
+.upwork .upwork-form .form3 button {
+  background-color: white;
+  color: #000;
+  border: 1px solid black;
+  margin-bottom: 50px;
+}
+
+.upwork .upwork-form .form3 .i2 i {
+  color: black;
+  position: absolute;
+  top: 508px;
+  left: 610px;
+}
+.upwork .upwork-form .finish p {
+  position: absolute;
+  top: 600px;
+  left: 500px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.upwork .upwork-form .finish button {
+  position: absolute;
+  top: 670px;
+  width: 200px;
+  left: 500px;
+  background-color: white;
+  border: 1px solid #14a800;
+  color: #14a800;
+}
+.upwork .upwork-form .finish button:hover {
+  border-color: #3c8224;
+  color: #3c8224;
+}
+.futter p {
+  color: white;
+  text-align: center;
+}
+.futter .futter-a1 a {
+  color: white;
+  position: absolute;
+  left: 950px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.futter .futter-a1 a:hover {
+  text-decoration: underline;
+}
+.futter .futter-a2 a {
+  color: white;
+  position: absolute;
+  left: 958px;
+  margin-top: 35px;
+  font-size: 20px;
+}
+.futter .futter-a2 a:hover {
+  text-decoration: underline;
+}
+.futter .futter-a3 a {
+  color: white;
+  position: absolute;
+  left: 960px;
+  margin-top: 60px;
+  font-size: 20px;
+}
+.futter .futter-a3 a:hover {
+  text-decoration: underline;
+}

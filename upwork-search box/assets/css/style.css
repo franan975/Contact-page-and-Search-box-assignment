@@ -1,0 +1,122 @@
+@font-face {
+  font-family: "f1";
+  src: url("../fonts/PaytoneOne-Regular.ttf");
+}
+
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+
+.upwork-header img {
+  width: 210px;
+  height: 70px;
+  margin-top: 20px;
+  margin-left: 25px;
+  cursor: pointer;
+}
+.upwork-header .a1 a {
+  font-size: 25px;
+  color: #65735b;
+  position: absolute;
+  left: 255px;
+  top: 40px;
+}
+.upwork-header .a1 a:hover {
+  color: #14a800;
+}
+.upwork-header .a1 a i {
+  font-size: 15px;
+}
+
+.upwork-header .a2 a {
+  font-size: 25px;
+  color: #65735b;
+  position: absolute;
+  left: 400px;
+  top: 40px;
+}
+.upwork-header .a2 a:hover {
+  color: #14a800;
+}
+.upwork-header .a2 a i {
+  font-size: 15px;
+}
+
+.upwork-header .a3 a {
+  font-size: 25px;
+  color: #65735b;
+  position: absolute;
+  left: 540px;
+  top: 40px;
+}
+.upwork-header .a3 a:hover {
+  color: #14a800;
+}
+.upwork-header .a3 a i {
+  font-size: 15px;
+}
+.upwork-header .a4 a {
+  font-size: 25px;
+  color: #65735b;
+  position: absolute;
+  left: 705px;
+  top: 40px;
+}
+.upwork-header .a4 a:hover {
+  color: #14a800;
+}
+.upwork-header .upwork-form input {
+  width: 170px;
+  height: 15px;
+  padding: 10px 25px 10px 45px;
+  border-radius: 50px;
+  position: absolute;
+  left: 832px;
+  top: 40px;
+  background-color: white;
+  border: 1px solid #b4b6b3;
+}
+.upwork-header .upwork-form i {
+  color: #65735b;
+  position: absolute;
+  left: 840px;
+  top: 52px;
+  cursor: pointer;
+}
+.upwork-header .i2 {
+  position: absolute;
+  left: 858px;
+  top: 53px;
+  cursor: pointer;
+  color: #65735b;
+}
+.upwork-header .upwork-form a {
+  color: #65735b;
+  font-size: 30px;
+  font-family: f1;
+  position: absolute;
+  left: 1095px;
+  top: 35px;
+}
+.upwork-header .upwork-form a:hover {
+  color: #14a800;
+}
+.upwork-header .upwork-form button {
+  background-color: #128f02;
+  color: #fff;
+  border: none;
+  border-radius: 50px;
+  box-sizing: border-box;
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  left: 1215px;
+  top: 40px;
+  cursor: pointer;
+}

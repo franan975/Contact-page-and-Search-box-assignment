@@ -1,0 +1,116 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+button {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.saleforce-body img {
+  max-width: 180px;
+  max-height: 113px;
+  margin-top: 20px;
+  margin-left: 400px;
+}
+.saleforce-body .saleforce-form {
+  width: 300px;
+  height: 300px;
+  background-color: #fff;
+  margin-left: 315px;
+  padding: 30px;
+  border: 2px solid rgb(170, 170, 170);
+  border-radius: 4px;
+}
+.saleforce-body .saleforce-form input {
+  border: 1px solid rgb(216, 221, 230);
+  border-radius: 4px;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 35px;
+}
+.saleforce-body .saleforce-form h2 {
+  font-size: 12px;
+  color: rgb(84, 105, 141);
+  margin: 0px 0px 8px;
+  line-height: inherit;
+}
+.saleforce-body .saleforce-form button {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: rgb(0, 112, 210);
+  color: #fff;
+  cursor: pointer;
+}
+.saleforce-body .saleforce-form button:hover {
+  background-color: rgb(0, 95, 178);
+}
+.saleforce-body .saleforce-form .remember input {
+  display: inline-block;
+  width: 15px;
+  line-height: 13px;
+}
+.saleforce-body .saleforce-form .remember label {
+  position: relative;
+  left: 5px;
+  top: -13px;
+  color: rgb(84, 105, 141);
+}
+.saleforce-body .saleforce-form .remember .finish a {
+  font-size: 15px;
+  color: #0070d2;
+  position: relative;
+  bottom: -50px;
+}
+.saleforce-body .saleforce-form .remember .finish2 a {
+  float: right;
+  position: relative;
+  bottom: -35px;
+  font-size: 15px;
+  color: #0070d2;
+}
+.saleforce-body .saleforce-form .remember .finish a:hover {
+  text-decoration: underline;
+}
+.saleforce-body .saleforce-form .remember .finish2 a:hover {
+  text-decoration: underline;
+}
+.end p {
+  color: rgb(84, 105, 141);
+  position: absolute;
+  top: 530px;
+  left: 400px;
+}
+.end button {
+  display: inline-block;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #ffffff;
+  border: 1px solid #d8dde6;
+  color: #0070d2;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+  position: absolute;
+  left: 515px;
+  top: 520px;
+}
+.end h4 {
+  position: absolute;
+  left: 310px;
+  bottom: 35px;
+  color: rgb(84, 105, 141);
+}
+.end h4 a {
+  color: #0070d2;
+}

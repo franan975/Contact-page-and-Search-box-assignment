@@ -1,0 +1,87 @@
+* {
+  margin: 0px;
+}
+input:focus {
+  outline: none;
+}
+
+.transcedndent-body img {
+  margin-top: 10px;
+  vertical-align: middle;
+  margin-left: 500px;
+}
+.transcedndent-body .transcedndent-form {
+  width: 320px;
+  height: 370px;
+  background-color: #fff;
+  margin: auto;
+  padding: 20px;
+}
+.transcedndent-body .transcedndent-form input,
+.transcedndent-body .transcedndent-form button {
+  padding: 10px;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+.transcedndent-body .transcedndent-form input {
+  padding: 6px 12px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  vertical-align: middle;
+  color: #555;
+}
+.transcedndent-body .transcedndent-form input:focus {
+  border-color: rgb(0, 183, 255);
+  box-shadow: 2px 0px 10px 0px rgb(0 183 255);
+}
+.transcedndent-body .transcedndent-form button {
+  font-size: 20px;
+  background-color: #428bca;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+  border-top: 1px solid #2d6ca2;
+  border-right: 1px solid #2d6ca2;
+  border-left: 1px solid #2d6ca2;
+  border-bottom: 1px solid #2d6ca2;
+}
+.transcedndent-body .transcedndent-form button:focus {
+  background-color: #2d6ca2;
+  box-shadow: none;
+}
+.transcedndent-body .transcedndent-form .remember input {
+  display: inline-block;
+  width: 20px;
+  box-shadow: none;
+  margin-top: 20px;
+}
+.transcedndent-body .transcedndent-form .remember label {
+  position: absolute;
+  top: 309px;
+  left: 545px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.transcedndent-body .transcedndent-form .finish hr {
+  text-align: left;
+  border-top: 1px solid #e5e5e5;
+  margin-bottom: 20px;
+}
+.transcedndent-body .transcedndent-form .finish button {
+  background-color: rgba(229, 226, 226, 0.849);
+  color: black;
+  border: 1px solid rgb(214, 212, 212);
+}
+.transcedndent-body .transcedndent-form .finish button:hover {
+  border: 1px solid rgb(179, 176, 176);
+}
+.transcedndent-body .transcedndent-form .finish button:focus {
+  background-color: rgb(179, 176, 176);
+}
+.transcedndent-body .transcedndent-form .finish p {
+  font-size: 14px;
+}

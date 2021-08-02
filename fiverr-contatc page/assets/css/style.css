@@ -1,0 +1,197 @@
+@font-face {
+  font-family: f1;
+  src: url("../fonts/PaytoneOne-Regular.ttf");
+}
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+
+.fiverr {
+  width: 400px;
+  height: 580px;
+  background-color: #fff;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  box-shadow: 0px 0px 15px 4px rgb(170, 170, 170);
+  border: 2px solid white;
+  border-radius: 5px;
+}
+.fiverr p {
+  font-family: f1;
+  font-size: 30px;
+  color: black;
+  position: absolute;
+  top: 80px;
+  left: 545px;
+}
+.fiverr .fiverr-form button {
+  width: 250px;
+  height: 45px;
+  position: absolute;
+  top: 150px;
+  left: 545px;
+  background: #4267b2;
+  border: 1px solid #4267b2;
+  color: #fff;
+  font-size: 17px;
+  font-family: f1;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.fiverr .fiverr-form button I {
+  position: relative;
+  left: -5px;
+  top: 0px;
+}
+.fiverr .fiverr-form button:hover {
+  background-color: #567ece;
+}
+
+.fiverr .button2 button {
+  width: 250px;
+  height: 45px;
+  position: absolute;
+  top: 215px;
+  left: 545px;
+  color: black;
+  font-size: 17px;
+  font-family: f1;
+  border-radius: 5px;
+  border: 1px solid rgb(199, 199, 199);
+  background-color: white;
+  cursor: pointer;
+}
+.fiverr .button2 img {
+  width: 33px;
+  position: absolute;
+  top: 222px;
+  left: 546px;
+  cursor: pointer;
+}
+.fiverr .button2 hr {
+  width: 90px;
+  position: relative;
+  top: 312px;
+  left: 220px;
+}
+
+.fiverr .b3 button {
+  width: 250px;
+  height: 45px;
+  position: absolute;
+  top: 285px;
+  left: 545px;
+  color: black;
+  font-size: 17px;
+  font-family: f1;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid rgb(199, 199, 199);
+  cursor: pointer;
+}
+.fiverr .b3 button i {
+  position: relative;
+  top: 0px;
+  left: -15px;
+}
+.fiverr .b3 hr {
+  width: 90px;
+  position: relative;
+  top: 310px;
+  left: 80px;
+}
+.fiverr .b3 p {
+  position: relative;
+  top: 290px;
+  left: 180px;
+  font-size: 20px;
+}
+.fiverr .fiverr-form2 input {
+  width: 250px;
+  height: 30px;
+  position: relative;
+  top: 310px;
+  left: 70px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border-top: 1px solid rgb(185, 185, 185);
+  border-left: 1px solid rgb(185, 185, 185);
+  border-right: 1px solid rgb(185, 185, 185);
+  border-bottom: 1px solid rgb(185, 185, 185);
+}
+.fiverr .fiverr-form2 input:hover {
+  border-top: 1px solid rgb(92, 92, 92);
+  border-left: 1px solid rgb(92, 92, 92);
+  border-right: 1px solid rgb(92, 92, 92);
+  border-bottom: 1px solid rgb(92, 92, 92);
+}
+.fiverr .fiverr-form2 button {
+  width: 265px;
+  height: 35px;
+  position: relative;
+  top: 310px;
+  left: 70px;
+  border-radius: 5px;
+  background-color: #1dbf73;
+  color: #fff;
+  border: 1px solid #1dbf73;
+  cursor: pointer;
+}
+.fiverr .fiverr-form2 button:hover {
+  background: #19a463;
+}
+.fiverr .checkbox input {
+  position: relative;
+  top: 320px;
+  left: 20px;
+}
+.fiverr .checkbox label {
+  position: relative;
+  top: 320px;
+  left: 20px;
+  font-size: 20px;
+}
+.fiverr .checkbox a {
+  position: relative;
+  top: 320px;
+  left: 100px;
+  color: #19a463;
+  font-size: 20px;
+}
+.fiverr .checkbox a:hover {
+  text-decoration: underline;
+}
+.fiverr .checkbox hr {
+  position: relative;
+  top: 340px;
+  border: 1px solid rgb(223, 219, 219);
+}
+.FINISH p {
+  position: relative;
+  top: 345px;
+  left: 65px;
+  font-family: candara;
+  font-size: 20px;
+  color: rgb(131, 131, 131);
+}
+.FINISH a {
+  position: relative;
+  top: 320px;
+  left: 230px;
+  font-family: candara;
+  font-size: 20px;
+  color: #19a463;
+}
+.FINISH a:hover {
+  text-decoration: underline;
+}

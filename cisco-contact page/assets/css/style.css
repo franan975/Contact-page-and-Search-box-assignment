@@ -1,0 +1,106 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.cisco-body {
+  width: 100%;
+  height: 845px;
+  background: linear-gradient(#024d68, #b2b2b2);
+}
+.cisco-form {
+  width: 340px;
+  min-height: 600px;
+  background-color: white;
+  position: absolute;
+  top: 120px;
+  left: 423px;
+  right: 423px;
+}
+.cisco-form img {
+  width: 130px;
+  display: block;
+  margin: 0 auto;
+  height: 70px;
+  cursor: pointer;
+}
+.cisco-form p {
+  padding: 3px 5px;
+  font-family: CiscoSans, arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.57;
+  color: rgba(88, 88, 91, 0.87);
+  cursor: pointer;
+  margin-left: 160px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.cisco-form .form2 {
+  text-align: center;
+}
+.cisco-form .form2 input {
+  width: 225px;
+  height: 20px;
+  border-top: 0px solid white;
+  border-left: 0px solid white;
+  border-right: 0px solid white;
+  border-bottom: 2px solid #c6c7ca;
+  margin: 10px 0px 10px;
+  padding: 5px;
+  color: rgba(158, 158, 162, 0.87);
+  line-height: 1.4;
+}
+.cisco-form .form2 p {
+  position: relative;
+  right: 80px;
+  top: 10px;
+  margin-bottom: 20px;
+  cursor: text;
+}
+.cisco-form .form2 button {
+  margin: 40px 0px;
+  width: 288px;
+  margin: 40px 0;
+  padding: 14px 16px;
+  cursor: pointer;
+  border: none;
+  background-color: #049fd9;
+  border-radius: 28px;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+.cisco-form .form2 button:hover {
+  background-color: #0f8abe;
+}
+.cisco-form a {
+  color: rgba(0, 127, 171, 0.87);
+  position: absolute;
+  left: 90px;
+}
+.cisco-form a:hover {
+  color: #005073;
+  text-decoration: underline;
+}
+.cisco-form .finish a {
+  position: absolute;
+  top: 500px;
+}
+.cisco-form .finish2 a {
+  position: absolute;
+  top: 500px;
+  left: 260px;
+}
+.cisco-form .finish3 a {
+  position: absolute;
+  top: 535px;
+}
+.cisco-form .finish4 a {
+  position: absolute;
+  top: 535px;
+  left: 180px;
+}

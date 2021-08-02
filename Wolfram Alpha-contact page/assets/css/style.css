@@ -1,0 +1,91 @@
+@font-face {
+  font-family: f1;
+  src: url("../fonts/JuliusSansOne-Regular.ttf");
+}
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wolfram img {
+  width: 265px;
+  margin-top: 65px;
+  margin-left: 539px;
+}
+
+.wolfram .wolfram-form {
+  width: 400px;
+  height: 230px;
+  background-color: #fff;
+  border: 1px solid #bdbcbc;
+  margin-top: -3px;
+  margin-left: 485px;
+  margin-bottom: 20px;
+}
+.wolfram .wolfram-form p {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  color: red;
+  cursor: default;
+}
+.wolfram .wolfram-form input {
+  margin-left: 30px;
+  width: 335px;
+  height: 40px;
+  padding: 5px 4px 2px;
+  font-size: 14px;
+  border: 1px solid #bdbcbc;
+  color: #bdbcbc;
+}
+.wolfram .wolfram-form input:focus {
+  border: 1px solid #f77000;
+  box-shadow: 1px 1px 1px 1px #fee;
+}
+.wolfram .wolfram-form i {
+  font-size: 18px;
+  color: #bdbcbc;
+  position: relative;
+  left: -35px;
+  top: 2px;
+  cursor: pointer;
+}
+.wolfram .wolfram-form i:hover {
+  color: red;
+}
+.wolfram .wolfram-form button {
+  background-color: #d10;
+  border: 1px solid #b00f00;
+  color: #fff;
+  display: inline-block;
+  width: 170px;
+  height: 35px;
+  margin-top: 30px;
+  margin-left: 30px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.wolfram .wolfram-form button:hover {
+  background-color: rgb(250, 64, 64);
+}
+.wolfram .finish p {
+  text-align: center;
+  font-family: f1;
+  color: #000;
+  cursor: default;
+}
+.wolfram .finish p a {
+  color: #d10;
+  font-family: candara;
+  font-size: 20px;
+}
+.wolfram .finish p a:hover {
+  color: #f77000;
+}

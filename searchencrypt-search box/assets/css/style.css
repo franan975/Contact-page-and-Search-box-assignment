@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+input {
+  outline: none;
+}
+.searchencrypt-body img {
+  width: 400px;
+  margin-top: 100px;
+  margin-left: 500px;
+}
+.searchencrypt-body .form1 input {
+  width: 500px;
+  height: 40px;
+  position: absolute;
+  left: 450px;
+  padding-left: 15px;
+  font-size: 15px;
+  border: 1px solid rgb(207, 207, 207);
+  border-radius: 5px;
+}
+.searchencrypt-body .form1 input:hover {
+  border: 1px solid rgb(133, 133, 133);
+}
+.searchencrypt-body .form1 input:focus {
+  border: 1px solid #4d90fe;
+  box-shadow: 0px 0px 3px 0px #4d90fe;
+}
+.searchencrypt-body .form1 i {
+  position: relative;
+  left: 901px;
+  top: 11px;
+  background-color: #4d90fe;
+  padding-top: 11px;
+  padding-bottom: 7px;
+  padding-right: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  border: 1px solid rgb(10, 85, 245);
+  cursor: pointer;
+}
+.searchencrypt-body .finish img {
+  width: 600px;
+  height: 90px;
+  margin-top: 40px;
+  margin-left: 410px;
+  cursor: pointer;
+  margin-bottom: 190px;
+}

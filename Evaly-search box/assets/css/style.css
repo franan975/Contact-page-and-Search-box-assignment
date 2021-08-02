@@ -1,0 +1,73 @@
+* {
+  margin: 0px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.evaly-header img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin-left: 50px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.evaly-header .form-box input {
+  width: 850px;
+  height: 40px;
+  display: flex;
+  padding: 0px 17px;
+  border: 1px solid rgb(231, 236, 239);
+  border-radius: 4px;
+  margin-left: 150px;
+  position: absolute;
+  top: 20px;
+  left: 70px;
+  margin-top: 50px;
+}
+
+.evaly-header .form-box i {
+  position: absolute;
+  left: 960px;
+  background-color: rgb(61, 75, 84);
+  padding: 7px 43px 8px 41px;
+  font-size: 25px;
+  display: flex;
+  box-sizing: border-box;
+  top: 20px;
+  border-radius: 2px 4px 4px 2px;
+  cursor: pointer;
+  color: #fff;
+  text-align: center;
+  margin-top: 50px;
+}
+.evaly-header .finish i {
+  position: absolute;
+  left: 1120px;
+  top: 85px;
+  cursor: pointer;
+}
+
+.evaly-header .finish2 i {
+  position: absolute;
+  left: 1180px;
+  top: 85px;
+  cursor: pointer;
+}
+
+.evaly-header .finish3 i {
+  position: absolute;
+  left: 1235px;
+  top: 85px;
+  cursor: pointer;
+}
+
+.evaly-header .finish4 i {
+  position: absolute;
+  left: 1290px;
+  top: 85px;
+  cursor: pointer;
+}

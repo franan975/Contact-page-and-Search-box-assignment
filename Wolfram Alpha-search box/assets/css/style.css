@@ -1,0 +1,155 @@
+@font-face {
+  font-family: f1;
+  src: url("../fonts/JuliusSansOne-Regular.ttf");
+}
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+
+.wolform-alpha-body .wolform-alpha-1 a {
+  font-size: 18px;
+  color: #000;
+  display: block;
+  position: absolute;
+  left: 870px;
+  top: 20px;
+}
+.wolform-alpha-body .wolform-alpha-1 i {
+  font-size: 12px;
+}
+.wolform-alpha-body .wolform-alpha-1 a:hover {
+  color: #ec561a;
+}
+
+.wolform-alpha-body .wolform-alpha-2 a {
+  font-size: 18px;
+  color: #000;
+  display: block;
+  position: absolute;
+  left: 1075px;
+  top: 20px;
+}
+.wolform-alpha-body .wolform-alpha-2 i {
+  font-size: 12px;
+}
+.wolform-alpha-body .wolform-alpha-2 a:hover {
+  color: #ec561a;
+}
+
+.wolform-alpha-body .wolform-alpha-3 a {
+  font-size: 18px;
+  color: #000;
+  display: block;
+  position: absolute;
+  left: 1170px;
+  top: 20px;
+}
+.wolform-alpha-body .wolform-alpha-3 i {
+  font-size: 12px;
+}
+.wolform-alpha-body .wolform-alpha-3 a:hover {
+  color: #ec561a;
+}
+.wolform-alpha-body .wolform-alpha-4 button {
+  position: absolute;
+  left: 1250px;
+  top: 15px;
+  color: #f96932;
+  padding: 8px;
+  border: 1px solid #f96932;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.wolform-alpha-body .wolform-alpha-4 button:hover {
+  color: #fff;
+  background-color: #ec561a;
+  border-color: #cb1000;
+}
+.wolform-alpha-body .wolform-alpha-4 button:active {
+  background-color: #cb1000;
+}
+.wolform-alpha-body hr {
+  position: relative;
+  top: 60px;
+}
+.wolform-alpha-body img {
+  width: 400px;
+  margin-top: 160px;
+  margin-left: 520px;
+}
+.wolform-alpha-body .wolfram-form input {
+  width: 600px;
+  height: 34px;
+  margin-left: 400px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 1px solid #cb1000;
+  box-shadow: 0px 0px 6px 3px #ffb200;
+  padding-left: 20px;
+}
+.wolform-alpha-body .wolfram-form i {
+  position: absolute;
+  left: 990px;
+  top: 270px;
+  background-color: #f96932;
+  padding-left: 3px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 10px;
+  cursor: pointer;
+}
+.wolform-alpha-body .wolfram-form i:hover {
+  background-color: #cb1000;
+}
+.wolform-alpha-body .finish1 a {
+  color: #f96932;
+  position: absolute;
+  left: 420px;
+  top: 315px;
+}
+.wolform-alpha-body .finish1 a:hover {
+  color: #cb1000;
+}
+.wolform-alpha-body .finish2 a {
+  color: #f96932;
+  position: absolute;
+  left: 575px;
+  top: 315px;
+}
+.wolform-alpha-body .finish2 a:hover {
+  color: #cb1000;
+}
+.wolform-alpha-body .finish3 a {
+  color: #f96932;
+  position: absolute;
+  left: 835px;
+  top: 315px;
+}
+.wolform-alpha-body .finish3 a:hover {
+  color: #cb1000;
+}
+.wolform-alpha-body .finish4 a {
+  color: #f96932;
+  position: absolute;
+  left: 940px;
+  top: 315px;
+}
+.wolform-alpha-body .finish4 a:hover {
+  color: #cb1000;
+}
+.wolform-alpha-body .finish5 p {
+  font-size: 20px;
+  font-family: f1;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 70px;
+}

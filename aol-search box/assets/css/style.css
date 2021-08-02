@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.Aol-body img {
+  width: 100px;
+  height: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.Aol-body .Aol-form input {
+  width: 525px;
+  height: 45px;
+  position: absolute;
+  top: 25px;
+  left: 270px;
+  padding-left: 20px;
+  border: 1px solid black;
+}
+.Aol-body .Aol-form button {
+  width: 100px;
+  height: 48px;
+  background-color: #de187b;
+  border: none;
+  font-size: 15px;
+  position: absolute;
+  left: 830px;
+  top: 26px;
+  color: #fff;
+  cursor: pointer;
+}
+.Aol-body .Aol-form button:hover {
+  background-color: #ef62a8;
+}
+.Aol-body .a1 a {
+  color: #000;
+  position: absolute;
+  left: 1055px;
+  top: 43px;
+  font-size: 20px;
+}
+.Aol-body .a1 a:hover {
+  color: #39f;
+}
+.Aol-body .a2 img {
+  width: 80px;
+  height: 65px;
+  margin-left: 1226px;
+  margin-top: -39px;
+}
+.Aol-body .a3 a {
+  color: #000;
+  position: absolute;
+  left: 1195px;
+  top: 43px;
+  font-size: 20px;
+}
+.Aol-body .a3 a:hover {
+  color: #39f;
+}

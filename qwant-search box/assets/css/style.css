@@ -1,0 +1,81 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.qwant-body .a1 a {
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  position: absolute;
+  left: 1133px;
+  top: 28px;
+  color: #59595f;
+  border-radius: 5px;
+}
+.qwant-body .a1 a:hover {
+  background-color: #dbdbdb;
+}
+.qwant-body .a2 a {
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  position: absolute;
+  left: 1215px;
+  top: 28px;
+  color: #59595f;
+  border-radius: 5px;
+}
+.qwant-body .a2 a i {
+  font-size: 15px;
+}
+.qwant-body .a2 a:hover {
+  background-color: #dbdbdb;
+}
+.qwant-body .p1 p {
+  position: absolute;
+  left: 1206px;
+  top: 35px;
+  color: #59595f;
+}
+.qwant-body .qwant-middle img {
+  width: 150px;
+  position: absolute;
+  top: 125px;
+  left: 650px;
+}
+.qwant-body .qwant-form input {
+  width: 510px;
+  height: 40px;
+  padding-left: 20px;
+  border-radius: 20px;
+  position: absolute;
+  top: 305px;
+  left: 465px;
+  border: none;
+}
+.qwant-body .qwant-form i {
+  position: absolute;
+  top: 320px;
+  left: 960px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.qwant-body .qwant-form input:focus {
+  border: 1px solid rgb(0, 162, 255);
+  box-shadow: 0px 1px 8px 2px rgb(176, 217, 245);
+}
+.qwant-body .qwant-form p {
+  margin-top: 370px;
+  margin-left: 551px;
+  font-size: 18px;
+  color: #59595f;
+}

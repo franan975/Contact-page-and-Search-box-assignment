@@ -1,0 +1,109 @@
+* {
+  margin: 0px;
+}
+
+input:focus {
+  outline: none;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  height: 200px;
+}
+
+.yahoo-body img {
+  height: 36px;
+  margin-left: 48px;
+  margin-top: 35px;
+}
+.yahoo-body .form-box {
+  width: 300px;
+  height: 500px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 700px;
+  border-top: 1px solid rgb(233, 228, 228);
+  border-left: 2px solid rgb(209, 209, 209);
+  border-right: 2px solid rgb(180, 177, 177);
+  border-bottom: 1px solid rgb(233, 228, 228);
+  border-radius: 5px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.yahoo-body .form-box img {
+  padding-top: 18px;
+  padding-bottom: 0;
+  padding-left: 45px;
+  height: 30px;
+  margin-bottom: 25px;
+}
+
+.yahoo-body .form-box h1 {
+  font-size: 20px;
+  display: block;
+  margin: 0;
+  margin-top: 0.82353rem;
+  font-size: 1.17647rem;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  text-align: center;
+  line-height: 1.35294rem;
+}
+
+.yahoo-body .form-box p {
+  text-align: center;
+  padding-top: 5px;
+  font-size: 15px;
+}
+
+.yahoo-body .form-box .form-desine input {
+  border-bottom: 2px solid #646768;
+  border-top: 0px solid white;
+  border-left: 0px solid white;
+  border-right: 0px solid white;
+  width: 260px;
+  margin-left: 15px;
+  box-shadow: none;
+  margin-top: 100px;
+  transition: 0.4s;
+}
+.yahoo-body .form-box .form-desine button {
+  width: 300px;
+  height: 40px;
+  border-radius: 30px;
+  margin-top: 20px;
+  color: #fff;
+  background: #188fff;
+  border: 1px solid #188fff;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.yahoo-body .form-box .remember input {
+  display: inline-block;
+  width: 20px;
+  line-height: 13px;
+  cursor: pointer;
+}
+
+.yahoo-body .form-box .remember a {
+  float: right;
+  color: #188fff;
+}
+.yahoo-body .form-box .remember label {
+  color: #188fff;
+  cursor: pointer;
+}
+.yahoo-body .form-box .finish button {
+  width: 300px;
+  height: 40px;
+  border-radius: 30px;
+  margin-top: 50px;
+  border: 1px solid #188fff;
+  cursor: pointer;
+  color: rgb(0, 81, 255);
+  font-size: 20px;
+}

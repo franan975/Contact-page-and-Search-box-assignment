@@ -1,0 +1,140 @@
+* {
+  margin: 0px;
+}
+input {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+.alibaba img {
+  margin-left: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+.alibaba input {
+  border: 2px solid #ff6a00;
+  width: 500px;
+  height: 30px;
+  padding-left: 120px;
+  padding-right: 40px;
+  position: absolute;
+  top: 35px;
+  left: 250px;
+  border-radius: 50px;
+}
+.alibaba p {
+  position: absolute;
+  left: 270px;
+  font-size: 15px;
+  top: 36px;
+  border-right: 2px solid rgb(206, 205, 205);
+  padding-right: 22px;
+  padding-top: 10px;
+  padding-bottom: 8px;
+  padding-left: 0px;
+  cursor: pointer;
+}
+
+.alibaba i {
+  font-size: 10px;
+  color: rgb(165, 165, 165);
+}
+.alibaba .right-side h2 {
+  position: absolute;
+  left: 750px;
+  top: 37px;
+  background-color: #ff6a00;
+  padding-right: 33px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  border-radius: 20px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  color: #fff;
+  cursor: pointer;
+}
+.alibaba .right-side h2:hover {
+  background-color: #e35300;
+}
+.alibaba .right-side i {
+  color: #fff;
+  font-size: 15px;
+  padding-right: 10px;
+}
+.alibaba .i1 i {
+  font-size: 20px;
+  position: absolute;
+  left: 725px;
+  top: 45px;
+  cursor: pointer;
+  color: black;
+}
+.alibaba .i1 i:hover {
+  color: #ff6a00;
+}
+.outside-right1 p {
+  position: absolute;
+  left: 970px;
+  top: 35px;
+  cursor: pointer;
+}
+.outside-right1 p:hover {
+  color: #ff6a00;
+}
+
+.outside-right1 i {
+  position: absolute;
+  top: 40px;
+  left: 945px;
+  font-size: 25px;
+}
+.outside-right2 i {
+  position: absolute;
+  left: 1090px;
+  top: 30px;
+  font-size: 25px;
+}
+.outside-right2 p {
+  position: absolute;
+  left: 1070px;
+  top: 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.outside-right2 p:hover {
+  color: #ff6a00;
+}
+.outside-right3 i {
+  position: absolute;
+  left: 1190px;
+  top: 30px;
+  font-size: 25px;
+}
+.outside-right3 p {
+  position: absolute;
+  left: 1180px;
+  top: 53px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.outside-right3 p:hover {
+  color: #ff6a00;
+}
+.outside-right4 i {
+  position: absolute;
+  left: 1280px;
+  top: 32px;
+  font-size: 25px;
+}
+.outside-right4 p {
+  position: absolute;
+  left: 1280px;
+  top: 53px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.outside-right4 p:hover {
+  color: #ff6a00;
+}

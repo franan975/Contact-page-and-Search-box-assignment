@@ -1,0 +1,193 @@
+*{
+    margin: 0px;
+}
+.Yendex img {
+    width: 107px;
+    height: 65px;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    cursor: pointer;
+}
+.Yendex .Search {
+    position: relative;
+}
+.Yendex .Search input {
+    width: 780px;
+    height: 40px;
+    position: absolute;
+    top: 270px;
+    left: 375px;
+    outline: none;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 110px;
+    border: 2px solid #fc0;
+    box-sizing: border-box;
+    border-radius: 13px;
+    cursor: text;
+}
+.Yendex .Search .butten {
+    position: relative;
+}
+.Yendex .Search .butten button{
+    width: 85px;
+    height: 40px;
+    position: absolute;
+    top: 270px;
+    left: 1068px;
+    font-size: 15px;
+    background-color:#fc0 ;
+    color: black;
+    font-family: inherit;
+    border: 2px solid #fc0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.Yendex .Search .butten button:hover {
+    background-color:rgb(214, 185, 66) ;
+    transition: 3s;
+}
+.Yendex .Search .butten i{
+    position: absolute;
+    top: 140px;
+    left: 520px;
+    padding: 2px;
+    color: rgb(156, 141, 141);
+    cursor: pointer;
+} 
+.Yendex .Search .butten i:hover{
+    color: rgb(49, 46, 46);
+}
+.Yendex .a .a1 {
+    position: relative;
+}
+.Yendex .a .a1 a{
+    position: absolute;
+    top: 170px;
+    left: 380px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a2 {
+    position: relative;
+}
+.Yendex .a2 a{
+    position: absolute;
+    top: 170px;
+    left: 480px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a3 {
+    position: relative;
+}
+.Yendex .a .a3 a{
+    position: absolute;
+    top: 170px;
+    left: 570px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a4 {
+    position: relative;
+}
+.Yendex .a .a4 a{
+    position: absolute;
+    top: 170px;
+    left: 650px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a5 {
+    position: relative;
+}
+.Yendex .a .a5 a{
+    position: absolute;
+    top: 170px;
+    left: 730px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a6 {
+    position: relative;
+}
+.Yendex .a .a6 a{
+    position: absolute;
+    top: 170px;
+    left: 865px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a .a7 {
+    position: relative;
+}
+.Yendex .a .a7 a{
+    position: absolute;
+    top: 170px;
+    left: 985px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;  
+    font-weight: initial;
+}
+.Yendex .a a:hover {
+    color: rgb(184, 11, 11);
+}
+.image img {
+    width: 60px;
+    position: absolute;
+    top: 115px;
+    left: 375px;
+}
+.video img {
+    width: 65px;
+    position: absolute;
+    top: 110px;
+    left: 470px;
+}
+.mail img {
+    width: 60px;
+    position: absolute;
+    top: 110px;
+    left: 560px;
+}
+.maps img {
+    width: 50px;
+    position: absolute;
+    top: 117px;
+    left: 645px;
+}
+.appmetrica img {
+    width: 65px;
+    position: absolute;
+    top: 107px;
+    left: 750px;
+}
+.translate img {
+    width: 65px;
+    position: absolute;
+    top: 107px;
+    left: 870px;
+}
+.brower img {
+    width: 100px;
+    position: absolute;
+    top: 107px;
+    left: 970px;
+}

@@ -1,0 +1,104 @@
+* {
+  margin: 0px;
+}
+
+input {
+  outline: none;
+}
+
+body {
+  width: 500px;
+  background-color: rgb(255, 255, 255);
+}
+
+.Evaly-body img {
+  width: 150px;
+  height: 150px;
+  cursor: pointer;
+}
+.Evaly-body .Evaly-form {
+  width: 480px;
+  padding: 60px;
+  background-color: #fff;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  margin: 200px auto 30px;
+  border: 1px solid rgb(231, 231, 231);
+}
+
+.Evaly-body .Evaly-form h3 {
+  color: rgba(113, 128, 150);
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.Evaly-body .Evaly-form input {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-width: 1px;
+  display: block;
+  border-color: rgb(209, 214, 219);
+  margin-bottom: 20px;
+  height: 20px;
+  border-radius: 3px;
+}
+.Evaly-body .Evaly-form button {
+  width: 515px;
+  height: 30px;
+  margin-left: 0px;
+  margin-right: 20px;
+  margin-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #c9151b;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 5px;
+  display: block;
+  box-sizing: border-box;
+  border: 2px solid white;
+  margin-bottom: 30px;
+}
+
+.Evaly-body .Evaly-form .finish a {
+  text-decoration: none;
+}
+
+.Evaly-body .Evaly-form .finish a:hover {
+  text-decoration: underline;
+}
+
+.Evaly-body .Evaly-form .finish a {
+  position: absolute;
+  right: 0px;
+  top: 298px;
+  left: 220px;
+  color: #d4494e;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Evaly-body .Evaly-form .finish p {
+  font-size: 17px;
+  text-align: center;
+}
+.Evaly-body .Evaly-form .finish .finish2 a {
+  color: #d4494e;
+  margin-top: 40px;
+  margin-right: 180px;
+  font-family: candara;
+  font-size: 20px;
+}

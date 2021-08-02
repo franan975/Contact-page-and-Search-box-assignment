@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "f1";
+  src: url("../fonts/PaytoneOne-Regular.ttf");
+}
+* {
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+input {
+  outline: none;
+}
+
+.fiverr img {
+  width: 150px;
+  cursor: pointer;
+}
+.fiverr .fiverr-form input {
+  width: 325px;
+  height: 35px;
+  position: absolute;
+  top: 42px;
+  left: 160px;
+  padding-left: 30px;
+  border: 1px solid #d5d4d2;
+  border-radius: 5px;
+}
+
+.fiverr .fiverr-form i {
+  position: absolute;
+  top: 52px;
+  left: 170px;
+  color: #8a8989;
+}
+.fiverr .fiverr-form p {
+  position: absolute;
+  top: 42px;
+  left: 429px;
+  background-color: rgb(29, 191, 115);
+  padding: 5px 17px 11px;
+  border-bottom-left-radius: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: #fff;
+  font-family: f1;
+}
+.fiverr .fiverr-form p:hover {
+  background: #19a463;
+}
+.fiverr .a1 a {
+  position: absolute;
+  left: 610px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(2, 194, 169);
+  font-family: f1;
+}
+.fiverr .a1 a:hover {
+  color: #28ccb7;
+}
+.fiverr .a2 a {
+  position: absolute;
+  left: 730px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(99, 99, 99);
+  font-family: f1;
+}
+.fiverr .a2 a:hover {
+  color: #19a463;
+}
+.fiverr .a3 a {
+  position: absolute;
+  left: 830px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(99, 99, 99);
+  font-family: f1;
+}
+.fiverr .a3 a:hover {
+  color: #19a463;
+}
+.fiverr .a4 a {
+  position: absolute;
+  left: 945px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(99, 99, 99);
+  font-family: f1;
+}
+.fiverr .a4 a:hover {
+  color: #19a463;
+}
+.fiverr .a5 a {
+  position: absolute;
+  left: 1015px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(99, 99, 99);
+  font-family: f1;
+}
+.fiverr .a5 a:hover {
+  color: #19a463;
+}
+.fiverr .a6 a {
+  position: absolute;
+  left: 1190px;
+  top: 55px;
+  font-size: 20px;
+  color: rgb(99, 99, 99);
+  font-family: f1;
+}
+.fiverr .a6 a:hover {
+  color: #19a463;
+}
+.fiverr .button1 button {
+  padding: 10px 16px;
+  font-size: 15px;
+  position: absolute;
+  left: 1280px;
+  top: 52px;
+  color: #1dbf73;
+  border-radius: 5px;
+  border: 1px solid #1dbf73;
+  cursor: pointer;
+  font-family: f1;
+}
+.fiverr .button1 button:hover {
+  color: #fff;
+  background: #19a463;
+}

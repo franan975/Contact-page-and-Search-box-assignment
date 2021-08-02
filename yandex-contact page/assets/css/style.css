@@ -1,0 +1,158 @@
+@font-face {
+  font-family: "PaytoneOne-Regular";
+  src: url(../fonts/PaytoneOne-Regular.ttf);
+}
+
+* {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+input:focus {
+  outline: none;
+}
+
+.yandex-body {
+  width: 100%;
+  height: 120vh;
+  background-image: url(../img/Guangzhou_landmark_bridge_Night_HD_Photography_2560x1440.jpg);
+  background-size: cover;
+}
+.yandex-body .yandex-form {
+  width: 360px;
+  height: 420px;
+  background-color: white;
+  padding-top: 50px;
+  padding-right: 10px;
+  padding-left: 65px;
+  padding-bottom: 50px;
+  position: absolute;
+  top: 75px;
+  left: 495px;
+  right: 495px;
+  border-radius: 20px;
+}
+.yandex-body .yandex-form img {
+  display: block;
+  margin: 0 auto;
+  width: 135px;
+  height: 64px;
+  cursor: pointer;
+}
+.yandex-body .yandex-form h2 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 35px;
+}
+.yandex-body .yandex-form input {
+  width: 300px;
+  height: 25px;
+  border-top: 0px solid white;
+  border-left: 0px solid white;
+  border-right: 0px solid white;
+  border-bottom: 1px solid #939cb0;
+  color: black;
+  box-sizing: border-box;
+  font-family: PaytoneOne-Regular;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.yandex-body .yandex-form p {
+  color: #b6bdcc;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+.yandex-body .yandex-form input:focus {
+  border-bottom: 1px solid yellow;
+}
+.yandex-body .yandex-form a {
+  font-family: candara;
+  font-size: 15px;
+}
+.yandex-body .yandex-form a:hover {
+  color: #c00;
+}
+.yandex-body .yandex-form button {
+  background-color: #fad400;
+  width: 300px;
+  height: 40px;
+  position: absolute;
+  top: 280px;
+  left: 65px;
+  border: 0px solid white;
+  border-radius: 10px;
+  font-family: PaytoneOne-Regular;
+  font-size: 20px;
+  cursor: pointer;
+}
+.yandex-body .yandex-form button:hover {
+  background-color: #fac000;
+}
+.yandex-body button {
+  width: 300px;
+  height: 40px;
+  position: absolute;
+  top: 415px;
+  right: 488px;
+  border-radius: 10px;
+  border: 1px solid #a2a6ad;
+  background-color: white;
+  font-family: PaytoneOne-Regular;
+  font-size: 20px;
+  cursor: pointer;
+}
+.yandex-body h4 {
+  position: absolute;
+  top: 500px;
+  right: 620px;
+  font-size: 20px;
+  color: rgb(83, 83, 83);
+}
+.yandex-body .img-finish img {
+  width: 50px;
+  position: absolute;
+  top: 550px;
+  right: 735px;
+}
+.yandex-body .img-finish2 img {
+  width: 25px;
+  position: absolute;
+  top: 553px;
+  right: 695px;
+}
+.yandex-body .img-finish3 img {
+  width: 35px;
+  position: absolute;
+  top: 548px;
+  right: 642px;
+}
+.yandex-body .img-finish3 h1 {
+  position: absolute;
+  top: 555px;
+  right: 565px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.yandex-body .img-finish4 img {
+  width: 40px;
+  position: absolute;
+  top: 556px;
+  right: 520px;
+}
+.yandex-body i {
+  background-color: white;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 485px;
+  top: 115px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #939cb0;
+}
